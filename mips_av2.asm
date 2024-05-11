@@ -31,7 +31,7 @@
     .align 2
     lista_numerica:     .space 400
     .align 2
-    writeList:      .space 400
+    writeList: .space 400
 .text
 
 li index_sw, 0
